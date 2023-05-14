@@ -2,7 +2,7 @@
 
 a=9
 b=20
-c=a+b
+c=a*b
 print(c)
 if a%2==0:
     print("The given number is even")
