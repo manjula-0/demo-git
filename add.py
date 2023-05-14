@@ -1,8 +1,9 @@
-#program for odd or even
+d = 10
+b = 20
+c = d * b
+print(c)
 
-a=30
-
-if a%2==0:
+if d % 2 == 0:
     print("The given number is even")
 else:
     print("The given number is odd")
